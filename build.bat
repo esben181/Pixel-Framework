@@ -1,0 +1,1 @@
+gcc source\win32\win32_main.c -o pixel.exe -Isource\ -g -luser32 -lGdi32 -lKernel32 -lWinmm -lOpenGL32
